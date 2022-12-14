@@ -34,5 +34,3 @@ This directory houses all of the code used in this repository. All scripts meant
 
 ### Modules
 All tools used throughit this repository are located in this directory. Subdirectories of `Modules/` should serve to group tools based on their use-case. Each subdirectory in `Modules/` should serve as a module in and of itself, from which classes and useful functions can be imported.
-
-The folder contains a few test scripts to get you started.
